@@ -1,0 +1,43 @@
+*{
+  font-family:Oswald;
+}
+
+ion-slides {
+    height: 200px; /* slider height you want */
+    .swiper-pagination-bullet-active {
+        background: #6A64FF;
+    }
+}
+  
+  .lblTitulo {
+    border-radius: 10px;
+    background-color: r#6A64FF;
+    color:  ghostwhite;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 5vh; 
+    font-size: 3vh;
+  }
+  
+  .lblError {
+    border-radius: 10px;
+    background-color: red;
+    color:  ghostwhite;
+    display: block;
+  }
+  
+  ion-textarea {
+    color: ghostwhite;
+    border-bottom: 3px solid ghostwhite;
+    font-size: 3vh;
+  }
+  
+  .btnSubmitAltaEncuestas{
+    margin-top: 20px;
+    height: 7vh;
+  }
+  
+  .btnSubmitAltaEncuestas:active{
+    background-color: #6A64FF;
+  }
+  
