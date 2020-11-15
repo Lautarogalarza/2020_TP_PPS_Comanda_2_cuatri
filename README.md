@@ -3,7 +3,7 @@
 
 ![Logo](https://github.com/Lautarogalarza/2020_TP_PPS_Comanda_2_cuatri/blob/main/Readme_Assets/logo.png)
 
-_Bienvenidos a la Resto Baal el mejor restaurante de comida urbana de zona sur_
+_Bienvenidos a Resto Baal el mejor restaurante de comida urbana de zona sur_
 
 <pre>
 <h3><strong>INTEGRANTES</strong></h3>
