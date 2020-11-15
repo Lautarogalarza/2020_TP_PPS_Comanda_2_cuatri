@@ -9,7 +9,7 @@ _Bienvenidos a Resto Baal el mejor restaurante de comida urbana de zona sur_
 <h3><strong>INTEGRANTES</strong></h3>
 🍻Bustamante Mathias Andres <br>
 🍻Galarza Lautaro Nazareno <br>
-🍻Axel Ghio <br>
+🍻Ghio Axel <br>
 </pre>
 
 
