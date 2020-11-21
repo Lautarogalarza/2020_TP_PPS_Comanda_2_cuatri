@@ -1,6 +1,9 @@
 import { Injectable } from '@angular/core';
 import { AngularFirestore } from '@angular/fire/firestore';
 import { HttpClient } from '@angular/common/http';
+import emailjs, { EmailJSResponseStatus } from 'emailjs-com';
+import { init } from "emailjs-com";
+init("user_m3Srsk6lvJNf9LbI1jvG9");
 
 @Injectable({
   providedIn: 'root'
@@ -45,14 +48,19 @@ export class FirebaseService {
     return this.firestore.collection(collection).doc(documentId).delete();
   }
 
-  sendEmail(usuario: any, cuerpo: any, subject: string) {
-    this.http.post(`https://us-central1-comanda-def1a.cloudfunctions.net/mailer`, {
-      to: usuario.correo,
-      message: cuerpo,
-      subject
-    }).subscribe(res => {
-      console.log("Esta es mi respuesta");
-      console.log(res);
-    });
+  sendEmail(usuario: any, mensaje: string) {
+  
+    let templateParams = {
+      nombre_cliente: usuario.nombre,
+      Mensaje: mensaje,
+      email_cliente: usuario.correo  
+    };
+
+    emailjs.send("service_s2g1ax6","template_vwcjsmb", templateParams)
+    .then(res => console.log("Correo enviado.", res.status, res.text))
+    .catch(error => console.log("Error al enviar.", error));
   }
+
+
+
 }
