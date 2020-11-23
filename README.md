@@ -17,6 +17,7 @@ _El primer paso a seguir para comenzar a usar nuestros servicios es crearse una 
 
 
 ![Principal](https://github.com/Lautarogalarza/2020_TP_PPS_Comanda_2_cuatri/blob/main/Readme_Assets/Principal.jpeg)
+![Principal2](https://github.com/Lautarogalarza/2020_TP_PPS_Comanda_2_cuatri/blob/main/Readme_Assets/Registro2.jpeg)
 
 ```
 1.Seleccionar el boton registrarme.
@@ -45,6 +46,8 @@ _Para hacer un pedido a uno de nuestros mozos es necesario que se sigan estos pa
 ```
 1.Una vez que al cliente se le disponibilizo una mesa, este mismo podra elegir su comida,bebida o postre que desea comer.
 ```
+![gestion1](https://github.com/Lautarogalarza/2020_TP_PPS_Comanda_2_cuatri/blob/main/Readme_Assets/Gestionar.jpeg)
+
 ![Pedido3](https://github.com/Lautarogalarza/2020_TP_PPS_Comanda_2_cuatri/blob/main/Readme_Assets/Detalle.jpeg)
 
 ![Pedido4](https://github.com/Lautarogalarza/2020_TP_PPS_Comanda_2_cuatri/blob/main/Readme_Assets/Agregar.jpeg)
@@ -59,8 +62,7 @@ _Para hacer un pedido a uno de nuestros mozos es necesario que se sigan estos pa
 1.Una vez que llega el pedido el cliente puede gestionar si desea dejarle una propina al mozo escaneando un codigo QR con distintos niveles de propina
 ,Pagar o dejar una breve encuesta.
 ```
-
-![gestion](https://github.com/Lautarogalarza/2020_TP_PPS_Comanda_2_cuatri/blob/main/Readme_Assets/Gestionar.jpeg)
+![gestion2](https://github.com/Lautarogalarza/2020_TP_PPS_Comanda_2_cuatri/blob/main/Readme_Assets/ElPedidoLLego.jpeg)
 
 ![encuesta](https://github.com/Lautarogalarza/2020_TP_PPS_Comanda_2_cuatri/blob/main/Readme_Assets/Encuesta.jpeg)
 
@@ -68,6 +70,11 @@ _Para hacer un pedido a uno de nuestros mozos es necesario que se sigan estos pa
 1.Para finalizar nuestro pedido obviamento debemos pagar!!!!.
 2.Una vez pagado se habra finalizado nuestro pedido y el cliente se retirara dejando la mesa otra vez disponible para otro comensal.
 ```
+
+![gestion2](https://github.com/Lautarogalarza/2020_TP_PPS_Comanda_2_cuatri/blob/main/Readme_Assets/Pagar.jpeg)
+
+![encuesta](https://github.com/Lautarogalarza/2020_TP_PPS_Comanda_2_cuatri/blob/main/Readme_Assets/Pagado.jpeg)
+
 <h3><strong>GRACIAS POR COMER EN RESTO BAAL, ESPERAMOS QUE VUELVAN!!!!!! 🍕 🍕 🍕 🍕</strong></h3>
 
 <h3><strong>SPRINTS</strong></h3>
