@@ -17,7 +17,7 @@ _El primer paso a seguir para comenzar a usar nuestros servicios es crearse una 
 
 
 ![Principal](https://github.com/Lautarogalarza/2020_TP_PPS_Comanda_2_cuatri/blob/main/Readme_Assets/Principal.jpeg)
-![Principal2](https://github.com/Lautarogalarza/2020_TP_PPS_Comanda_2_cuatri/blob/main/Readme_Assets/Registro2.jpeg)
+![Principal2](https://github.com/Lautarogalarza/2020_TP_PPS_Comanda_2_cuatri/blob/main/Readme_Assets/Registro2.gif)
 
 ```
 1.Seleccionar el boton registrarme.
